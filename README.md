@@ -1,2 +1,2 @@
 # guestbook-app
-Sample appengine guestbook app
+Sample appengine guestbook test app
